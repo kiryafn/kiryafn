@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#🍀 Kyrylo "kiryafn" Alieksieiev
+# 🍀 Kyrylo "kiryafn" Alieksieiev
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
 
