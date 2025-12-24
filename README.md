@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ## 🌱 Currently Learning
 
 - Exploring the realms of **Business applications** and **Bot writing**.
-- Diving deeper into **Java practices** and tools like **Spring** and **Docker**.
+- Diving deeper into **Best practices** and tools like **Spring**, **Docker** and *FastAPI*.
 
 ## 🔭 Projects and Contributions
 
