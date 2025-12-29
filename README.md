@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 - **Software Developer** with experience in building web applications, APIs, and automation tools.
 - Proficient in **Java** and **Python**.
 
-## 🌱 Currently Learning
-
-- Exploring the realms of **Business applications** and **Bot writing**.
-- Diving deeper into **Best practices** and tools like **Spring**, **Docker** and *FastAPI*.
-
 ## 🔭 Projects and Contributions
 
 - Working on some pet projects to enhance **developer productivity** with custom tools and extensions.
