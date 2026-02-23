@@ -1,36 +1,36 @@
-<!--
-**kiryafn/kiryafn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there, I'm Kyrylo "kiryafn" Alieksieiev! 👋</h1>
+  <p><b>Software Developer</b></p>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Kyrylo "kiryafn" Alieksieiev
+## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
+I'm passionate about technology, programming, and continuous learning. 
 
-## 💼 Professional Background
+-  **Experience:** Building robust web applications, APIs, and automation tools.
+-  **Current Focus:** Working on pet projects to enhance developer productivity with custom tools and extensions.
+-  **Learning:** Always exploring new technologies and best practices.
 
-- **Software Developer** with experience in building web applications, APIs, and automation tools.
-- Proficient in **Java** and **Python**.
+## 🛠️ Tech Stack
 
-## 🔭 Projects and Contributions
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=rabbitmq,git,docker,githubactions,terraform,aws" />
 
-- Working on some pet projects to enhance **developer productivity** with custom tools and extensions.
 
-## 🧾 Reaching Me
+## 🤝 Connect with Me
 
-- **Email**: [kyryloalieksieiev@gmail.com](mailto:kyryloalieksieiev@gmail.com)
-- **LinkedIn**: [linkedin.com/in/kalieksieiev](https://linkedin.com/in/kalieksieiev)
-
-## 🌐 Me around the web
-
-- **GitHub**: [github.com/kiryafn](https://github.com/kiryafn)
-- **LeetCode**: [leetcode.com/sadieboey](https://leetcode.com/sadieboey)
+<div align="left">
+  <a href="mailto:kyryloalieksieiev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/kalieksieiev">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/sadieboey">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c00" alt="LeetCode" />
+  </a>
+</div>
